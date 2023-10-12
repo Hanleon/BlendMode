@@ -11,4 +11,4 @@
 拖入图片
 
 ![image](https://github.com/Hanleon/BlendMode/blob/main/src/3.jpg)  
-处理图片
+处理图片并保存
