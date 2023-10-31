@@ -19,10 +19,10 @@
 
 ## V1.1.0
 #### 更新说明
-![image](https://github.com/Hanleon/BlendMode/blob/main/src/3.jpg)  
+![image](https://github.com/Hanleon/BlendMode/blob/main/src/4.jpg)  
 新增不同模式
 
-![image](https://github.com/Hanleon/BlendMode/blob/main/src/4.jpg)  
+![image](https://github.com/Hanleon/BlendMode/blob/main/src/5.jpg)  
 
 ## V1.0.0
 #### 使用说明
